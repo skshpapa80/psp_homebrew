@@ -1,7 +1,13 @@
 # psp_homebrew
 
-PSP Homebrew list
+## PSP SDK
+
+pspsdk
+
+## PSP Homebrew list
 
 airplane - https://skshpapa80.github.io/2021/10/13/psp-homebrew-source/
 
-pspsdk 
+## PSP Programming
+
+PSP Key Input - https://skshpapa80.github.io/2021/12/15/psp-key-input/
