@@ -2,7 +2,7 @@
 
 ## PSP SDK
 
-pspsdk
+pspsdk - https://skshpapa80.github.io/2013/03/07/psp-toolkit/
 
 ## PSP Homebrew list
 
