@@ -6,7 +6,7 @@ pspsdk - https://skshpapa80.blogspot.com/2013/03/psp-psptoolkit.html
 
 ## PSP Homebrew list
 
-airplane - https://skshpapa80.github.io/2021/10/13/psp-homebrew-source/
+airplane - https://skshpapa80.blogspot.com/2021/10/psp-homebrew.html
 
 ## PSP Programming
 
