@@ -14,4 +14,4 @@ PSP SDK 사용법  - https://skshpapa80.blogspot.com/2021/05/psp-sdk.html
 
 PSP 개발자료 - 키 입력 받는 소스 - https://skshpapa80.blogspot.com/2021/12/psp.html <br />
 
-PSP 홈브류에 리모콘 사용하기 - https://skshpapa80.github.io/2013/04/10/psp/
+PSP 홈브류에 리모콘 사용하기 - https://skshpapa80.blogspot.com/2013/04/psp.html
