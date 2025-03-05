@@ -2,13 +2,13 @@
 
 ## PSP SDK
 
-PSP 개발환경 – PSPToolKit - https://blog.raycho12.pe.kr/2025/03/04/9-2005-psp-music-player/
+PSP 개발환경 – PSPToolKit - https://skshpapa80.blogspot.com/2013/03/psp-psptoolkit.html
 
 ## PSP Homebrew list
 
 PSP Homebrew – 한글출력, 이미지처리, 키입력 소스(airplane) - https://skshpapa80.blogspot.com/2017/11/psp-homebrew.html
 
-2005년 PSP용 음악플레이어를 만들었어요! - https://blog.naver.com/skshpapa80/223726512815
+2005년 PSP용 음악플레이어를 만들었어요! - https://blog.raycho12.pe.kr/2025/03/04/9-2005-psp-music-player/
 
 ## PSP Programming
 
