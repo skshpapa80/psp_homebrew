@@ -2,7 +2,7 @@
 
 ## PSP SDK
 
-PSP 개발환경 – PSPToolKit - https://skshpapa80.blogspot.com/2013/03/psp-psptoolkit.html
+PSP 개발환경 – PSPToolKit - https://blog.raycho12.pe.kr/2025/03/04/9-2005-psp-music-player/
 
 ## PSP Homebrew list
 
