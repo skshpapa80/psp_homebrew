@@ -8,7 +8,7 @@ PSP 개발환경 – PSPToolKit - https://www.raycho12.pe.kr/2013/03/08/psp-devt
 
 PSP Homebrew – 한글출력, 이미지처리, 키입력 소스(airplane) - https://www.raycho12.pe.kr/2017/11/17/psp-homebrew-source/
 
-2005년 PSP용 음악플레이어를 만들었어요! - https://www.raycho12.pe.kr/2025/03/04/9-2005-psp-music-player/
+2005년 PSP용 음악플레이어를 만들었어요! - https://www.raycho12.pe.kr/2025/03/04/2005-psp-music-player/
 
 ## PSP Programming
 
